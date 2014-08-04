@@ -3,5 +3,8 @@ Instructions
 
 Technical Writing Project
 <html>
-<h1> instructions</h1>
+<h1> Instructions</h1>
+<body>
+
+</body>
 </html>
